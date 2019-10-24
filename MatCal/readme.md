@@ -1,2 +1,2 @@
-% MatrixCalculator
+# MatrixCalculator
 Basic stuff
