@@ -1,4 +1,4 @@
-makefile
+makefile (Linux)
 	commands:
 	"make" -> compiles Source with Insertion sort into file "MSource"
 	"make clean" -> Deletes .o files and "MSource" in the folder
