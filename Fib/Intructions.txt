@@ -1,0 +1,13 @@
+makefile
+	commands:
+	"make" -> compiles Source with Insertion sort into file "MSource"
+	"make clean" -> Deletes .o files and "MSource" in the folder
+source.cpp
+	Contains Main
+		->Asks for Fibonacci Sequence Iteration
+fibR.cpp
+	Contains Recursive Fibonacci Sequence
+fibL.cpp
+	Contains Loop Based Fibonacci Sequence
+fib.h
+	Header for both Fibonacci Sequence
