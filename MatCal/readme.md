@@ -2,10 +2,10 @@
 Basic:  
 Addition  
 Subtraction  
-Muitplication  
+Multiplication  
   -Scalar  
   -Entrywise  
-  -Muitplication of 2 matrices  
+  -Multiplication of 2 matrices  
 Transpose  
 Determinant  
 Inverse  
