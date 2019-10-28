@@ -13,15 +13,15 @@ if(n == 0)
 //No Negative allowed
 if(n < 0){
 	std::cout << "Why you so NEGATIVE!! (╯°□°)╯︵ ┻━┻\n No negative numbers allowed\n";
-	return 1;
+	return 0;
 }
 //when input is above two:
 while(t < n)
 {
-t++; 	// is number of iterations using n as a comparator
-F3 = F1 + F2; 	//F3 final number is sum of both
-F2 = F1;	//F2 stores F1 for the next iteration
-F1 = F3;	//F1 stores F3 for the next iteration
+	t++; 	// is number of iterations using n as a comparator
+	F3 = F1 + F2; 	//F3 final number is sum of both
+	F2 = F1;	//F2 stores F1 for the next iteration
+	F1 = F3;	//F1 stores F3 for the next iteration
 }
 return F3; 	//Returns final number
 
